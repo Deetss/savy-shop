@@ -1,0 +1,48 @@
+$color-dark-light: #B47D4F !default;
+
+.active {
+    color: #B47D4F !important;
+}
+
+.admin-nav-menu .admin-subnav .selected a {
+    color: #ECCFC7;
+}
+
+.admin-nav-menu li.selected {
+    background: #B47D4F !important;
+}
+
+.btn-primary {
+    background: #B47D4F !important;
+    border: none !important;
+}
+
+.admin-nav-menu .admin-subnav a:hover {
+    color: #B47D4F !important;
+
+}
+
+body > div.admin-nav.fits > div > nav > ul > li > ul > li > a:hover {
+    color: white !important;
+}
+
+body > div.admin-nav.fits > div > nav > ul > li.tab-with-icon.selected > ul > li.selected > a {
+    color: #ECCFC7 !important;
+}
+
+.page-item.active .page-link {
+    background-color: #B47D4F;
+    border-color: #B47D4F;
+}
+
+.page-link {
+    color: #B47D4F;
+}
+
+a {
+    color: #B47D4F;
+}
+
+.admin-nav-menu li:hover {
+    background: #B47D4F !important;
+}
